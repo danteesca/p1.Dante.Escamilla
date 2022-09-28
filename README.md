@@ -3,7 +3,7 @@ Human Computer Interaction Project 1
 
 ### Links:
 
-[Demo](Doc:demo)
+[Presentation](https://danteesca.github.io/p1.Dante.Escamilla/)
 
 ### C:
 
