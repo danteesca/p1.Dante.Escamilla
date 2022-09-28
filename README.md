@@ -3,7 +3,6 @@ Human Computer Interaction Project 1
 
 ### Links:
 
-[file:///C:/Users/Dante/Downloads/Human%20computer%20interaction%20project%201%20(1)/demo.html]
 
 ### C:
 
