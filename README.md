@@ -3,6 +3,7 @@ Human Computer Interaction Project 1
 
 ### Links:
 
+[Demo](Doc:demo)
 
 ### C:
 
