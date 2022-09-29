@@ -5,7 +5,7 @@ Human Computer Interaction Project 1
 
 [Presentation](https://danteesca.github.io/p1.Dante.Escamilla/)
 
-[HTML page](https://danteesca.github.io/p1.Dante.Escamilla/demo.html)
+[HTML page](https://danteesca.github.io/p1.Dante.Escamilla/ProjectDemo.html)
 
 [Download](https://downgit.github.io/#/home?url=https://github.com/danteesca/p1.Dante.Escamilla/blob/main/p1_Dante_Escamilla.zip)
 
