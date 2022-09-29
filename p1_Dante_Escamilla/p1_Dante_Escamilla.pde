@@ -3,7 +3,7 @@ float rectThreeX, rectThreeY, rectFourX, rectFourY;
 float rectFiveX, rectFiveY, rectSixX, rectSixY; 
 float rectSevenX, rectSevenY, rectEightX, rectEightY, rectNineX, rectNineY, topRectX, topRectY;
 float rectTenX, rectTenY, rectElevenX, rectElevenY; 
-int rectSize = 90;     // Diameter of rect
+int rectSize = 90;    
 color rectColor, baseColor, textColor, tempColor;
 color rectHighlight;
 color colorOne, colorTwo, colorThree, colorFour, colorFive, colorSix, colorSeven, colorEight, colorNine;
